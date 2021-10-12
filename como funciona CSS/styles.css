@@ -1,0 +1,21 @@
+h1{
+    background-color: aqua;
+}
+.title{
+    background-color: chocolate;
+}
+h1.title{
+    background-color: antiquewhite;
+}
+#title{
+    background-color: chartreuse;
+}
+h1#title{
+    background-color: darkgoldenrod;
+}
+h1.title#title{
+    background-color: dodgerblue;
+}
+.title{
+    background-color:teal;
+}

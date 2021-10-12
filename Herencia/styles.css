@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(77, 73, 73) ;
+}
+h1{
+    color: cornflowerblue;
+    font-size: 30px;
+}
+.text{
+    color: green;
+}
+.link{
+    color:inherit;
+}
+.list{
+    color: crimson;
+}
+.list-item-extra{
+    color: initial;
+}
+h1{
+    background-color: blue;
+}
+.title{
+    color: red;
+}
